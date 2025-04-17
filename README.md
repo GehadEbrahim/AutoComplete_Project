@@ -24,12 +24,19 @@ Auto-save changes to file
 📂 Project Structure
 AutoComplete_Project/
 ├── src/               # Source code
+
 │   ├── Trie.cpp       # Trie implementation
+
 │   ├── Trie.h         # Trie header
+
 │   ├── AutoComplete.cpp  # Core logic
+
 │   ├── main.cpp       # CLI interface
+
 ├── data/              # Dictionary files
+
 │   └── dictionary.txt # Default word list
+
 └── README.md          # This file
 
 2. Entering a Prefix
