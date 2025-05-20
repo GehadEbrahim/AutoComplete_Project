@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\gebra\Auto_Complete-Project\x64\Debug\Auto_Complete Project.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\gebra\Auto_Complete-Project\Auto_Complete Project\Dictionary.txt</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\gebra\Auto_Complete-Project\Auto_Complete Project\Searched Words.txt</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
