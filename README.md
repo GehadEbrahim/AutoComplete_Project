@@ -29,13 +29,19 @@ AutoComplete_Project/
 
 │   ├── Trie.h         # Trie header
 
-│   ├── AutoComplete.cpp  # Core logic
+│   ├──AppStart.cpp    # Core logic
+
+│   ├──AppStart.h      #Core header
+
+│   ├── AutoComplete.cpp #The main function
 
 │   ├── main.cpp       # CLI interface
 
 ├── data/              # Dictionary files
 
 │   └── dictionary.txt # Default word list
+
+│   └── searchedWord.txt # The words that the user searched about
 
 └── README.md          # This file
 
@@ -57,6 +63,7 @@ Options:
 1. Search suggestions
 2. Add a word
 3. Delete a word
+4. Display Dectionary
 > 2
 Enter word to add: coffee
 "coffee" added successfully!
